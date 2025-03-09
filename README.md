@@ -2,4 +2,4 @@
 # Galang_portofolio.github.io
 My Portofolio
 =======
-welcome, Im Ego Tya Sanjaya
+welcome, Im Galang Lian Kagura
